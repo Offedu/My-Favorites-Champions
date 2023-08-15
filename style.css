@@ -1,0 +1,46 @@
+.header {
+    text-align: center;
+    color: white
+}
+
+body {
+    background-color: rgb(15, 4, 4);
+}
+
+.kassadin {
+color: rgb(154, 75, 228);
+}
+
+.kassadin img {
+    width: 100%; /* A imagem ocupará a largura total da div */
+    height: auto; /* Mantém a proporção original da imagem */
+    display: block; /* Remove qualquer espaço extra abaixo da imagem */
+    margin: 0 auto; /* Centraliza horizontalmente a imagem dentro da div */
+}
+
+.zed {
+    color: rgb(202, 24, 24);
+}
+
+.zed img {
+    width: 100%; /* A imagem ocupará a largura total da div */
+    height: auto; /* Mantém a proporção original da imagem */
+    display: block; /* Remove qualquer espaço extra abaixo da imagem */
+    margin: 0 auto; /* Centraliza horizontalmente a imagem dentro da div */
+}
+
+.talon {
+    color: rgb(104, 104, 250);
+}
+
+.talon img {
+    width: 100%; /* A imagem ocupará a largura total da div */
+    height: auto; /* Mantém a proporção original da imagem */
+    display: block; /* Remove qualquer espaço extra abaixo da imagem */
+    margin: 0 auto; /* Centraliza horizontalmente a imagem dentro da div */
+}
+
+.footer {
+    color: white;
+    text-align: center;
+}
